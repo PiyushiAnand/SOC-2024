@@ -6,7 +6,7 @@ const app=express();
 
 //use the routes
 app.use(express.json())
-const routes=require('./routes/todo_r')
-app.use('/todos',routes)
+const todo_routes=require('./routes/todo_r')
+app.use('/todos',todo_routes)
 PORT = process.env.PORT||3000;
 app.listen(PORT,()=> console.log('Server Started'))
