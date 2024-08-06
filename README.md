@@ -1,10 +1,21 @@
+# Weekly Progress Report
+
 ## Week 1
-This week we learnt about git,github and javascript basics
+- **Topics Covered:** Git, GitHub, and JavaScript basics.
+
 ## Week 2
-This week we focussed mostly on backend development.The assignemnt was implementing a todo-list which has been uploaded in this repo.The todo-list backend allows insertion,deleltion and updation of the list components and has been implemented using javascript.
+- **Focus:** Backend development.
+- **Assignment:** Implemented a todo-list application (see repository for details). The backend supports insertion, deletion, and updating of list items, developed using JavaScript.
+
 ## Week 3
-This week we learnt about React and also made a personal portfolio webiste as well.
+- **Focus:** React.
+- **Project:** Created a personal portfolio website.
+
 ## Week 4
-This week we learnt about mongodb and the deployment of websites using netlify
-## Week 5-8
-From this week we started the final project using React for front-end and Node.js for backend
+- **Topics Covered:** MongoDB and website deployment.
+- **Deployment Tool:** Netlify.
+
+## Weeks 5-8
+- **Project:** Final project development.
+- **Technologies Used:** React for front-end, Node.js for back-end.
+
